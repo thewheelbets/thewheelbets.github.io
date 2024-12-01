@@ -12,13 +12,12 @@ body {
 .logo {
   width: 50px; /* Adjust width as needed */
   height: 50px
-  margin-top: 20px;
+  /*margin-top: 20px;*/
 }
 
 .warning-text {
     color: #5e5e25;;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 12px;
 }
 
 .container {
