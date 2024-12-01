@@ -16,8 +16,8 @@ h1 {
 }
 
 .logo {
-  width: 25px; /* Adjust width as needed */
-  height: 25px
+  width: 40px; /* Adjust width as needed */
+  height: 40px
   /*margin-top: 20px;*/
 }
 
@@ -46,7 +46,7 @@ input[type="text"] {
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
-  border-radius: 10px;
+  border-radius: 3px;
   background-color: #dedede;
 }
 
@@ -55,7 +55,7 @@ button {
   background-color: #dedede;
   color: black;
   border: 1px solid #a3a3a3;
-  border-radius: 10px;
+  border-radius: 13px;
   cursor: pointer;
   font-weight: bold;
 }
@@ -75,5 +75,4 @@ button:hover {
 
 #statusMessage {
   margin-top: 20px;
-  font-weight: bold;
 }
