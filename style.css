@@ -1,6 +1,5 @@
 body {
   font-family: Arial, sans-serif;
-  font-size: 25px;
   font-weight: bold;
   display: flex;
   flex-direction: column;
@@ -11,8 +10,8 @@ body {
 }
 
 .logo {
-  width: 50px; /* Adjust width as needed */
-  height: 50px
+  width: 25px; /* Adjust width as needed */
+  height: 25px
   /*margin-top: 20px;*/
 }
 
@@ -50,7 +49,7 @@ button {
   background-color: #dedede;
   color: black;
   border: 1px solid #a3a3a3;
-  border-radius: 14px;
+  border-radius: 10px;
   cursor: pointer;
   font-weight: bold;
 }
