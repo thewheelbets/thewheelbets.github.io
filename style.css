@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  background: #c2c04a;
+  background: #e3e149;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -31,7 +31,7 @@ input[type="text"] {
 
 button {
   padding: 10px 20px;
-  background-color: #e8e8e3;
+  background-color: #bfbe3d;
   color: black;
   border: none;
   border-radius: 4px;
@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-  background-color: #adadad;
+  background-color: #9c9a30;
 }
 
 #statusMessage {
