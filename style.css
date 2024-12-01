@@ -10,10 +10,10 @@ body {
 }
 
 .container {
-  background: white;
+  background: #c2c04a;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 
@@ -31,15 +31,15 @@ input[type="text"] {
 
 button {
   padding: 10px 20px;
-  background-color: #28a745;
-  color: white;
+  background-color: #e8e8e3;
+  color: black;
   border: none;
   border-radius: 4px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #218838;
+  background-color: #adadad;
 }
 
 #statusMessage {
