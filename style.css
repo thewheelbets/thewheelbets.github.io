@@ -10,10 +10,9 @@ body {
 }
 
 .logo {
-  display: block;
-  margin: 5px auto;
   width: 50px; /* Adjust width as needed */
   height: 50px
+  margin: 20px auto;
 }
 
 .container {
