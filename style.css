@@ -6,7 +6,7 @@ body {
   align-items: center;
   margin: 0;
   height: 100vh;
-  background-color: #fffc00;
+  background-color: #ebebeb;
 }
 
 .logo {
@@ -16,7 +16,7 @@ body {
 }
 
 .warning-text {
-    color: #5e5e25;;
+    color: #8c8c8c;;
     font-size: 12px;
 }
 
@@ -24,7 +24,7 @@ body {
   position: absolute; /* Allows more precise placement in the middle */
   top: 50%; /* Start positioning from the vertical middle */
   transform: translateY(-50%);
-  background: #e3e149;
+  background: #ffffff;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -36,24 +36,24 @@ h1 {
 }
 
 input[type="text"] {
-  width: 80%;
+  width: 90%;
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 button {
   padding: 10px 20px;
-  background-color: #bfbe3d;
+  background-color: #dedede;
   color: black;
-  border: none;
-  border-radius: 4px;
+  border: 1px solid #a3a3a3;
+  border-radius: 10px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #9c9a30;
+  background-color: #b8b8b8;
 }
 
 .footer-text {
