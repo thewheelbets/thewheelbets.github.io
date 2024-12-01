@@ -22,7 +22,7 @@ h1 {
 }
 
 .warning-text {
-    color: #8c8c8c;;
+    color: #8c8c8c;
     font-size: 12px;
 }
 
@@ -75,4 +75,5 @@ button:hover {
 
 #statusMessage {
   margin-top: 20px;
+  color: #8c8c8c;
 }
