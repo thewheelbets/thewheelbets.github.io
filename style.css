@@ -9,6 +9,11 @@ body {
   background-color: #fffc00;
 }
 
+.logo {
+  width: 50px; /* Adjust width as needed */
+  height: 50px
+}
+
 .container {
   background: #e3e149;
   padding: 20px;
