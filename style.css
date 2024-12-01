@@ -51,6 +51,15 @@ button:hover {
   background-color: #9c9a30;
 }
 
+.footer-text {
+  position: absolute;
+  bottom: 10px; /* Distance from the bottom of the page */
+  width: 100%;
+  text-align: center;
+  font-size: 12px; /* Make the text small */
+  color: #5e5e25; /* Gray color for subtle text */
+}
+
 #statusMessage {
   margin-top: 20px;
   font-weight: bold;
