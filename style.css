@@ -41,6 +41,7 @@ input[type="text"] {
   margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 10px;
+  background-color: #dedede;
 }
 
 button {
@@ -50,6 +51,8 @@ button {
   border: 1px solid #a3a3a3;
   border-radius: 10px;
   cursor: pointer;
+  font-weight: bold;
+  font-color: #a3a3a3
 }
 
 button:hover {
