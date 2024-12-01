@@ -2,17 +2,17 @@ body {
   font-family: Arial, sans-serif;
   font-weight: bold;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  height: 100vh;
   margin: 0;
+  height: 100vh;
   background-color: #fffc00;
 }
 
 .logo {
   width: 50px; /* Adjust width as needed */
   height: 50px
-  margin: 20px auto;
+  margin-top: 20px;
 }
 
 .container {
@@ -21,6 +21,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   text-align: center;
+  margin-top: auto;
 }
 
 h1 {
