@@ -16,6 +16,9 @@ body {
 }
 
 .container {
+  position: absolute; /* Allows more precise placement in the middle */
+  top: 50%; /* Start positioning from the vertical middle */
+  transform: translateY(-50%);
   background: #e3e149;
   padding: 20px;
   border-radius: 8px;
