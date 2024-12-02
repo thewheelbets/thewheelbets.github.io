@@ -45,9 +45,8 @@ input[type="text"] {
   width: 90%;
   padding: 10px;
   margin-bottom: 10px;
-  border-radius: 3px;
+  border: none;
   background-color: #ebebeb;
-  outline: none; /* Removes the outline */
 }
 
 button {
