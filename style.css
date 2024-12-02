@@ -76,7 +76,7 @@ button:hover {
 /* Footer styles */
 .footer {
   width: 100%; /* Ensure it spans the entire page horizontally */
-  border-top: 2px solid gray; /* Gray line across the top */
+  border-top: 1px solid silver; /* Gray line across the top */
   background-color: white; /* White background for the footer */
   text-align: center; /* Center-align the footer text */
   padding: 20px 0; /* Add space above and below the text */
