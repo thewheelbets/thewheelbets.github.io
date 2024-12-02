@@ -73,6 +73,18 @@ button:hover {
   color: #8c8c8c; /* faded gray for subtle text */
 }
 
+/* Footer styles */
+.footer {
+  border-top: 2px solid gray; /* The gray line */
+  background-color: white;   /* White bottom section */
+  text-align: center;        /* Center the text */
+  padding: 20px;             /* Space inside the footer */
+  position: relative;        /* Default positioning */
+  margin-top: 20px;          /* Space between the footer and content */
+  font-size: 14px;           /* Optional: Make footer text smaller */
+  color: #555;               /* Optional: Subtle text color */
+}
+
 #statusMessage {
   margin-top: 20px;
   color: #8c8c8c;
