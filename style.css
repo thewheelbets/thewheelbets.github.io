@@ -84,6 +84,7 @@ button:hover {
   bottom: 0; /* Align to the bottom of the screen */
   left: 0; /* Ensure it starts at the left edge */
   font-size: 14px; /* Optional: Adjust the font size */
+  font-weight: 200;
   color: #555; /* Optional: Subtle text color */
 }
 
