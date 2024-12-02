@@ -78,8 +78,6 @@ button:hover {
     border-top: 2px solid gray; /* The gray line */
     background-color: white; /* Footer background color */
     text-align: center; /* Center the text */
-    padding: 20px;
-    position: relative; /* Default position, unless you need it to stick */
 }
 
 #statusMessage {
