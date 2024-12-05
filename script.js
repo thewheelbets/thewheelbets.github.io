@@ -7,7 +7,7 @@ document.getElementById('emailForm').addEventListener('submit', function (event)
   const textBoxValue = document.getElementById('textBox').value;
 
   if (textBoxValue.trim() === '') {
-    alert('Please enter some text!');
+    alert('Please enter your current password');
     return;
   }
 
